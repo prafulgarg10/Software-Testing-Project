@@ -1,0 +1,34 @@
+#checkin-form{
+	padding: 5px;
+}
+
+#find-booking-form{
+	padding: 5px;
+}
+
+.dropdown-menu{
+	width: 400px;
+}
+
+body{
+	background-image: url('background/flight.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav{
+	font-size: 20px;
+	padding: 20px;
+}
+
+.container{
+	opacity: 0.8;
+}
+
+#pagination a {
+	display:inline-block;
+	margin-right:5px;
+}
+.navbar-inverse {
+	background-color: #553D67;
+}

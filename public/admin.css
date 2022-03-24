@@ -1,0 +1,17 @@
+body{
+	background-image: url('background/flight.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav{
+	font-size: 20px;
+	padding: 20px;
+}
+
+.container{
+	opacity: 0.9;
+}
+.navbar-inverse {
+	background-color: #553D67;
+}

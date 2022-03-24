@@ -1,0 +1,32 @@
+#plane_logo{
+	width: 80px;
+	height: 55px;
+}
+
+h2, a{
+	color: white;
+}
+h2:hover, a:hover{
+    color: orange;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+body{
+    background-image: url('background/flight.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+	font-size: 20px;
+	padding: 20px;
+}
+.container{
+    opacity: 0.8;
+}
+.navbar-inverse {
+	background-color: #553D67;
+}
+.form-group{
+    padding: 5px;
+}
